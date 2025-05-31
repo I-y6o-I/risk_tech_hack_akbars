@@ -8,7 +8,7 @@ Kirill Shumskii: https://github.com/I-y6o-I
 
 Arthur Babkin: https://github.com/ArthurBabkin
 
-Adel Chernyatov: https://www.kaggle.com/adelchernyatov
+Adel Chernyatov: https://github.com/AdelChernyatov
 
 # Problem
 In this competition, Ak Bars Bank proposes to develop an algorithm (estimation model) using a wide range of features

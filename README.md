@@ -4,11 +4,11 @@ Kaggle competition link: https://www.kaggle.com/competitions/ak-bars-real-estate
 Here is top-1 solution for the hackathon task
 ## Team: **Torchки**
 
-Kirill Shumskii: https://github.com/I-y6o-I
+Kirill Shumskii (Innopolis University, Data Science and Artificial Intelligence): https://github.com/I-y6o-I
 
-Arthur Babkin: https://github.com/ArthurBabkin
+Arthur Babkin (Innopolis University, Data Science and Artificial Intelligence): https://github.com/ArthurBabkin
 
-Adel Chernyatov: https://github.com/AdelChernyatov
+Adel Chernyatov (KFU, Applied Mathematics and Informatics): https://github.com/AdelChernyatov
 
 # Problem
 In this competition, Ak Bars Bank proposes to develop an algorithm (estimation model) using a wide range of features
